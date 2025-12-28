@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mageji_qwq)](https://github.com/anuraghazra/github-readme-stats)
+[![mageji_qwq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=magejiaaa)](https://github.com/anuraghazra/github-readme-stats)
